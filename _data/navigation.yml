@@ -14,5 +14,7 @@ main:
   #   url: /sitemap/
 
 categories:
-  - title: "Effective Modern C++"
-    url: /categories/EMC++/
+  - title: "TEST"
+    children:
+      - title: "Effective Modern C++"
+        url: "/EMC++"
